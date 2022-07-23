@@ -11,7 +11,7 @@
 
 </head>
 <body>
-   <h1>JavaScriptJ</h1>
+   <h1>JavaScript</h1>
 </body>
 </html>
 
